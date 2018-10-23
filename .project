@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>date-convert.github.io</name>
+	<name>date-convert</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1540202770602</id>
+			<id>1537511817650</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
